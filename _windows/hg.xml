@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="C:\Program Files\Mercurial\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="hg.dzm.lanit.ru/scm/hg/autotests" value="MMTP-Rumyantsev" />
+      </map>
+    </option>
+  </component>
+</application>
